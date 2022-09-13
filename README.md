@@ -1,7 +1,7 @@
 ### Olá! Me chamo Lukas Silva Machado 😁
 
 - 🔭 Sou graduando de Informática Biomédica na Universidade Federal de Ciências da Saúde de Porto Alegre.
-- 🌱 Atualmente estou estudando HTML, CSS e Python
+- 🌱 Atualmente estou estudando Python e Machine Learning para Data Science
 - 👯 Também sou bolsista de iniciação tecnológica na UFCSPA, com o projeto **Desenvolvimento de um software para acompanhamento da evolução temporal do câncer de mama a partir de imagens de mamografia e dados clínicos.**
 <div style="display: inline_block">
       <h1>Atualmente estudando estas tecnologias:<h1/>
