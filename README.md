@@ -11,7 +11,7 @@
 - 🌱 Studying Python with Tensor Flow Library for Machine Learning.
 - 👀 Studying too, HTML, CSS, Javascript for Web Development. Take a look in my studies in my repository.
 - 👯 I'm have a research scholarship in UFCSPA, with the project **Development of a software for monitoring the temporal evolution of breast cancer from mammography images and clinical data.**
-- 
+
 <div style="display: inline_block">
       <img align="center" alt="Lukas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Lukas-TF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
