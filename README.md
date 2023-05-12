@@ -14,12 +14,13 @@
 <br>
 <div style="display: inline_block">
       <h1>Languages:</h1>
-      <img align="center" alt="Lukas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Lukas-TF" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-      <img align="center" alt="Lukas-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=121&color=currentColor"/>
-      <img align="center" alt="Lukas-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=121&color=currentColor"/>
-      <img align="center" alt="Lukas-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      <img align="center" alt="Lukas-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+      <img align="center" alt="Lukas-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Lukas-pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
+      <img align="center" alt="Lukas-TF" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+      <img align="center" alt="Lukas-HTML" height="60" width="60" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=121&color=currentColor"/>
+      <img align="center" alt="Lukas-CSS" height="60" width="60" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=121&color=currentColor"/>
+      <img align="center" alt="Lukas-Javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      <img align="center" alt="Lukas-Javascript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
       <img align="center" alt="Lukas-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
               
 </div>
