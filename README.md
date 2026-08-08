@@ -1,4 +1,5 @@
-  <div style="display: inline-block">      
+  # Languagens:
+  <div style="display: inline-block">
             <img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />    
             <img align="center" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
             <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
@@ -15,7 +16,7 @@
   
   <hr>
 <div style="display: inline_block">
-      <h1>Languages:</h1>
+      <h1>Stack:</h1>
       <img align="center" alt="Lukas-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Lukas-postegres" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
       <img align="center" alt="Lukas-vim" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
